@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SW5fw5dzyzDQmhT9ICa1kx+n+Q8DSGsVSfOLX7Z4972hnr6kdLCy8Q/aueT92HDldx1vU53WN61683q+QZJP6A==",
+  "success": true,
+  "projectFilePath": "/Volumes/SINGGIH/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/09_API_Design_dan_Construction_Using_Swagger/tp/tpmodul9_2211104007/tpmodul9_2211104007/tpmodul9_2211104007.csproj",
+  "expectedPackageFiles": [
+    "/Users/lovinpeace/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/lovinpeace/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/lovinpeace/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/lovinpeace/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/lovinpeace/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/lovinpeace/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/lovinpeace/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
