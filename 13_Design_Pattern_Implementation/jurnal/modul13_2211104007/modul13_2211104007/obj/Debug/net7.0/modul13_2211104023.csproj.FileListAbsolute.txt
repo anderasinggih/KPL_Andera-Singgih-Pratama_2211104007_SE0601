@@ -1,0 +1,30 @@
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.deps.json
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.runtimeconfig.json
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.dll
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.pdb
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.csproj.AssemblyReference.cache
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.AssemblyInfoInputs.cache
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.AssemblyInfo.cs
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.csproj.CoreCompileInputs.cache
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.dll
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/refint/modul13_2211104023.dll
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.pdb
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.genruntimeconfig.cache
+/Users/mhmmddhimas/Projects/modul13_2211104023/modul13_2211104023/obj/Debug/net7.0/ref/modul13_2211104023.dll
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.deps.json
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.runtimeconfig.json
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.dll
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/bin/Debug/net7.0/modul13_2211104023.pdb
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.csproj.AssemblyReference.cache
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.AssemblyInfoInputs.cache
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.AssemblyInfo.cs
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.csproj.CoreCompileInputs.cache
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.dll
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/refint/modul13_2211104023.dll
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.pdb
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/modul13_2211104023.genruntimeconfig.cache
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/13_Design_Pattern_Implementation/jurnal/modul13_2211104007/modul13_2211104023/obj/Debug/net7.0/ref/modul13_2211104023.dll
