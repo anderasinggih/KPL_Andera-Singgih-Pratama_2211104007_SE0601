@@ -6,7 +6,7 @@
   <MonoDevelop.Ide.ItemProperties.modul15__2211104007 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="App.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Form2.Designer.cs">
     <Files>
       <File FileName="Form2.cs" />
       <File FileName="Helper.cs" />
@@ -17,11 +17,12 @@
       <File FileName="packages.config" />
       <File FileName="User.cs" />
       <File FileName="UserStorage.cs" />
+      <File FileName="Form2.Designer.cs" Line="68" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="modul15_2211104007" expanded="True" selected="True" />
+          <Node name="modul15_2211104007" expanded="True" />
         </State>
       </Pad>
     </Pads>
