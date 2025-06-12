@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{DE82B962-8E26-4044-9D70-18904C259884}|Default">
+  <MonoDevelop.Ide.ItemProperties.guidedModul14__Andera_220Singgih PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="App.config" />
+      <File FileName="Program.cs" Line="11" Column="43" />
+      <File FileName="User.cs" Line="20" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="guidedModul14_Andera Singgih" expanded="True">
+            <Node name="guidedModul14_Andera Singgih" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

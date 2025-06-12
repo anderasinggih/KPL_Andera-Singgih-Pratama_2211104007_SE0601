@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{979089DC-2A32-47CC-BFD2-01BC1DF21626}|Default">
+  <MonoDevelop.Ide.ItemProperties.modul14__2211104007 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Aljabar.cs" Line="13" Column="21" />
+      <File FileName="App.config" Line="6" Column="17" />
+      <File FileName="Program.cs" Line="14" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul14_2211104007" expanded="True">
+            <Node name="modul14_2211104007" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,7 @@
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/14_Clean_Code/GUIDED/guidedModul14_Anderasinggih/bin/Debug/guidedModul14_ahmad Junaidi.exe.config
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/14_Clean_Code/GUIDED/guidedModul14_Anderasinggih/bin/Debug/guidedModul14_ahmad Junaidi.exe
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/14_Clean_Code/GUIDED/guidedModul14_Anderasinggih/bin/Debug/guidedModul14_ahmad Junaidi.pdb
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/14_Clean_Code/GUIDED/guidedModul14_Anderasinggih/obj/Debug/guidedModul14_Andera Singgih.csproj.AssemblyReference.cache
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/14_Clean_Code/GUIDED/guidedModul14_Anderasinggih/obj/Debug/guidedModul14_Andera Singgih.csproj.CoreCompileInputs.cache
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/14_Clean_Code/GUIDED/guidedModul14_Anderasinggih/obj/Debug/guidedModul14_ahmad Junaidi.exe
+/Volumes/LVNPC/KULIAH/SEMUA SEMESTER/SEMESTER 6/PRAK KONSTRUKSI PERANGKAT LUNAK/KPL_Andera-Singgih-Pratama_2211104007_SE0601/14_Clean_Code/GUIDED/guidedModul14_Anderasinggih/obj/Debug/guidedModul14_ahmad Junaidi.pdb
