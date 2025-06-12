@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{702FD164-6D25-40C9-AD32-75D30B0D69DD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.modul15__2211104007 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.config">
+    <Files>
+      <File FileName="Form2.cs" />
+      <File FileName="Helper.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="RegisterForm.cs" />
+      <File FileName="App.config" Line="1" Column="1" />
+      <File FileName="Form1.cs" />
+      <File FileName="packages.config" />
+      <File FileName="User.cs" />
+      <File FileName="UserStorage.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul15_2211104007" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
